@@ -1,6 +1,6 @@
 # AnnihilateRunner
 
-I made a sorf of Runner game. I used the Unity Editor and C# for coding. I want to explain What I did.
+I made a sort of Runner game. I used the Unity Editor and C# for coding. I want to explain What I did.
 
 -Player Movement.
 
