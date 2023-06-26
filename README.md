@@ -22,7 +22,7 @@ I made a sort of Runner game. I used the Unity Editor and C# for coding. I want 
 
 Made by myselft. This game is a game which making on Panteon Academy.
 
-I used the assests for completly education purpose. There is no any advertising revenue or like that.
+I used the assests for completly educationak purpose. There is no any advertising revenue or like that.
 
 Additionally you can check the original Panteon Academy project via link.
 
